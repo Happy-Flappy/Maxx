@@ -1,0 +1,21 @@
+Layer layer0
+Layer layer1 
+Layer layer2
+Layer layer3
+Layer layer4
+
+layer0 load "layer0"
+layer1 load "layer1"
+layer2 load "layer2"
+layer3 load "layer3"
+layer4 load "layer4"
+
+
+layer4 fadeIn 0 4
+layer4 fadeOut 5 9
+
+layer4 zoomIn 0 40 480 270 5 easeOut
+layer3 zoomIn 9 18 480 270 5 easeOut
+
+
+ 

@@ -1,0 +1,17 @@
+============================================================================
+Build Report - Sun 11/23/2025  0:57:47.46
+============================================================================
+
+Build Status: [0]
+Total Errors: 2
+Start Time: Sun 11/23/2025  0:57:14.20
+End Time: Sun 11/23/2025  0:57:47.46
+
+Build Environment: C:\Users\chris\source\repos\Maxx\builds\launcherParameters\..\buildEnvironment
+Binaries: C:\Users\chris\source\repos\Maxx\builds\launcherParameters\..\binaries
+Libraries: C:\Users\chris\source\repos\Maxx\builds\launcherParameters\..\libraries
+
+Selected Executable: 
+Launch Mode: 0
+
+============================================================================
